@@ -57,7 +57,7 @@ body {
     margin: 0 auto 30px;
     padding: 0 20px;
     margin-top: 5px;
-    margin-left: 216px ;
+
   }
   
   .features p {
@@ -102,9 +102,7 @@ body {
     border-left: 20px solid #e2e2e2;
     color: #999999;
   }
-  
-  /* Добавьте новое пустое правило сюда */
-  
+ 
   .site-footer {
     min-width: 550px;
     background-color: #847462;
@@ -125,4 +123,7 @@ body {
     border: 2px solid black;
   }
   
+  h2{
+    text-align:center;
+  }
   
